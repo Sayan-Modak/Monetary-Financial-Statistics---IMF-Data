@@ -1,0 +1,291 @@
+SERIES_CODE,COUNTRY,INDICATOR,TYPE_OF_TRANSFORMATION,FREQUENCY,SCALE,CATEGORY,YEAR,VALUE
+IND.ODCORP_A_F2MSOTS_RR_ACO_S121_ODCS.XDC.A,India,"Assets, Deposits and securities other than shares, Required reserves, Claims on Central bank (ODCS)",Domestic currency,Annual,Millions,Central Bank & Liquidity,2016,4622670.0
+IND.ODCORP_A_ACO_PS_ODCS.XDC.A,India,"Assets, Claims on Private sector (ODCS)",Domestic currency,Annual,Millions,Private Sector Exposure,2016,58801794.81
+IND.ODCORP_A_ACO_S1311MIXED_ODCS.XDC.A,India,"Assets, Claims on Central Government (ODCS)",Domestic currency,Annual,Millions,Government Exposure,2016,31048762.29
+IND.ODCORP_A_ACO_S121_ODCS.XDC.A,India,"Assets, Claims on Central bank (ODCS)",Domestic currency,Annual,Millions,Central Bank & Liquidity,2016,7501634.646
+IND.ODCORP_A_ACO_S12R_ODCS.XDC.A,India,"Assets, Claims on Other financial corporations (ODCS)",Domestic currency,Annual,Millions,Other Sectoral Exposure,2016,5410861.649
+IND.ODCORP_A_IL_ACO_NRES_ODCS.USD.A,India,"Assets, International Liquidity, Claims on Nonresidents (ODCS)",US dollar,Annual,Millions,Foreign & International Exposure,2016,16127.85512
+IND.ODCORP_A_ACO_S13M1_ODCS.XDC.A,India,"Assets, Claims on State and Local Governments (ODCS)",Domestic currency,Annual,Millions,Government Exposure,2016,7655878.241
+IND.ODCORP_L_F51KOE_ODCS.XDC.A,India,"Liabilities, Shares and other Equity (ODCS)",Domestic currency,Annual,Millions,Capital & Equity,2016,13439033.4
+IND.ODCORP_A_ACO_S1_Z_ODCS.XDC.A,India,"Assets, Claims on Other sectors (ODCS)",Domestic currency,Annual,Millions,Other Sectoral Exposure,2016,93138803.98
+IND.ODCORP_L_F6_ODCS.XDC.A,India,"Liabilities, Insurance Technical Reserves (ODCS)",Domestic currency,Annual,Millions,Insurance Technical Reserves,2016,0.0
+IND.ODCORP_A_ACO_NRES_ODCS.XDC.A,India,"Assets, Claims on Nonresidents (ODCS)",Domestic currency,Annual,Millions,Foreign & International Exposure,2016,1095963.556
+IND.ODCORP_A_F21_ACO_S121_ODCS.XDC.A,India,"Assets, Currency, Claims on Central bank (ODCS)",Domestic currency,Annual,Millions,Central Bank & Liquidity,2016,1573502.864
+IND.ODCORP_A_OCO_S121_ODCS.XDC.A,India,"Assets, Other claims on Central bank (ODCS)",Domestic currency,Annual,Millions,Central Bank & Liquidity,2016,1305461.782
+IND.ODCORP_L_LT_NRES_ODCS.XDC.A,India,"Liabilities, Liabilities to Nonresidents (ODCS)",Domestic currency,Annual,Millions,Foreign & International Exposure,2016,0.0
+IND.ODCORP_NETAL_NCO_S1311MIXED_ODCS.XDC.A,India,"Net (assets less liabilities), Net Claims on Central Government (ODCS)",Domestic currency,Annual,Millions,Government Exposure,2016,31048762.29
+IND.ODCORP_NETAL_NFRA_ODCS.XDC.A,India,"Net (assets less liabilities), Net foreign assets (ODCS)",Domestic currency,Annual,Millions,Foreign & International Exposure,2016,1095963.556
+IND.ODCORP_L_F29_IBM_ODCS.XDC.A,India,"Liabilities, Other Deposits, Included In Broad Money (ODCS)",Domestic currency,Annual,Millions,Deposits & Funding,2016,100112067.8
+IND.ODCORP_L_F2M_XBM_ODCS.XDC.A,India,"Liabilities, Deposits, Excluded From Broad Money (ODCS)",Domestic currency,Annual,Millions,Deposits & Funding,2016,0.0
+IND.ODCORP_A_ACO_S11001_ODCS.XDC.A,India,"Assets, Claims on Public non-financial corporations (ODCS)",Domestic currency,Annual,Millions,Other Sectoral Exposure,2016,21270269.27
+IND.ODCORP_L_F3_XBM_ODCS.XDC.A,India,"Liabilities, Securities other than Shares, Excluded From Broad Money (ODCS)",Domestic currency,Annual,Millions,Deposits & Funding,2016,0.0
+IND.ODCORP_L_LT_S121_ODCS.XDC.A,India,"Liabilities, Liabilities to Central bank (ODCS)",Domestic currency,Annual,Millions,Central Bank & Liquidity,2016,176617.973
+IND.ODCORP_L_F71_ODCS.XDC.A,India,"Liabilities, Financial Derivatives (ODCS)",Domestic currency,Annual,Millions,Financial Derivatives,2016,0.0
+IND.ODCORP_L_IL_LT_NRES_ODCS.USD.A,India,"Liabilities, International Liquidity, Liabilities to Nonresidents (ODCS)",US dollar,Annual,Millions,Foreign & International Exposure,2016,0.0
+IND.ODCORP_L_F4_ODCS.XDC.A,India,"Liabilities, Loans (ODCS)",Domestic currency,Annual,Millions,Deposits & Funding,2016,3390292.0
+IND.ODCORP_L_LT_S1311MIXED_ODCS.XDC.A,India,"Liabilities, Liabilities to Central Government (ODCS)",Domestic currency,Annual,Millions,Government Exposure,2016,0.0
+IND.ODCORP_L_F3_IBM_ODCS.XDC.A,India,"Liabilities, Securities other than Shares, Included In Broad Money (ODCS)",Domestic currency,Annual,Millions,Deposits & Funding,2016,0.0
+IND.ODCORP_L_F22_IBM_ODCS.XDC.A,India,"Liabilities, Transferable Deposits, Included In Broad Money (ODCS)",Domestic currency,Annual,Millions,Deposits & Funding,2016,11934538.01
+IND.ODCORP_NETAL_OIN_ASEC_ODCS.XDC.A,India,"Net (assets less liabilities), Other items (Net), All sectors (ODCS)",Domestic currency,Annual,Millions,Other Balance Sheet Items,2016,3732615.26
+IND.ODCORP_A_T_ASEC_ODC2SR.XDC.A,India,"Assets, Total, All sectors (ODC2SR)",Domestic currency,Annual,Millions,Banking Sector Size,2016,143505188.1
+IND.ODCORP_A_F2MSOTS_RR_ACO_S121_ODCS.XDC.A,India,"Assets, Deposits and securities other than shares, Required reserves, Claims on Central bank (ODCS)",Domestic currency,Annual,Millions,Central Bank & Liquidity,2017,4790590.0
+IND.ODCORP_A_ACO_PS_ODCS.XDC.A,India,"Assets, Claims on Private sector (ODCS)",Domestic currency,Annual,Millions,Private Sector Exposure,2017,65233911.69
+IND.ODCORP_A_ACO_S1311MIXED_ODCS.XDC.A,India,"Assets, Claims on Central Government (ODCS)",Domestic currency,Annual,Millions,Government Exposure,2017,27878922.5
+IND.ODCORP_A_ACO_S121_ODCS.XDC.A,India,"Assets, Claims on Central bank (ODCS)",Domestic currency,Annual,Millions,Central Bank & Liquidity,2017,6467863.078
+IND.ODCORP_A_ACO_S12R_ODCS.XDC.A,India,"Assets, Claims on Other financial corporations (ODCS)",Domestic currency,Annual,Millions,Other Sectoral Exposure,2017,6399374.428
+IND.ODCORP_A_IL_ACO_NRES_ODCS.USD.A,India,"Assets, International Liquidity, Claims on Nonresidents (ODCS)",US dollar,Annual,Millions,Foreign & International Exposure,2017,24935.28499
+IND.ODCORP_A_ACO_S13M1_ODCS.XDC.A,India,"Assets, Claims on State and Local Governments (ODCS)",Domestic currency,Annual,Millions,Government Exposure,2017,8309683.443
+IND.ODCORP_L_F51KOE_ODCS.XDC.A,India,"Liabilities, Shares and other Equity (ODCS)",Domestic currency,Annual,Millions,Capital & Equity,2017,12466620.63
+IND.ODCORP_A_ACO_S1_Z_ODCS.XDC.A,India,"Assets, Claims on Other sectors (ODCS)",Domestic currency,Annual,Millions,Other Sectoral Exposure,2017,102717299.0
+IND.ODCORP_L_F6_ODCS.XDC.A,India,"Liabilities, Insurance Technical Reserves (ODCS)",Domestic currency,Annual,Millions,Insurance Technical Reserves,2017,0.0
+IND.ODCORP_A_ACO_NRES_ODCS.XDC.A,India,"Assets, Claims on Nonresidents (ODCS)",Domestic currency,Annual,Millions,Foreign & International Exposure,2017,1594045.444
+IND.ODCORP_A_F21_ACO_S121_ODCS.XDC.A,India,"Assets, Currency, Claims on Central bank (ODCS)",Domestic currency,Annual,Millions,Central Bank & Liquidity,2017,809409.3047
+IND.ODCORP_A_OCO_S121_ODCS.XDC.A,India,"Assets, Other claims on Central bank (ODCS)",Domestic currency,Annual,Millions,Central Bank & Liquidity,2017,867863.773
+IND.ODCORP_L_LT_NRES_ODCS.XDC.A,India,"Liabilities, Liabilities to Nonresidents (ODCS)",Domestic currency,Annual,Millions,Foreign & International Exposure,2017,0.0
+IND.ODCORP_NETAL_NCO_S1311MIXED_ODCS.XDC.A,India,"Net (assets less liabilities), Net Claims on Central Government (ODCS)",Domestic currency,Annual,Millions,Government Exposure,2017,27878922.5
+IND.ODCORP_NETAL_NFRA_ODCS.XDC.A,India,"Net (assets less liabilities), Net foreign assets (ODCS)",Domestic currency,Annual,Millions,Foreign & International Exposure,2017,1594045.444
+IND.ODCORP_L_F29_IBM_ODCS.XDC.A,India,"Liabilities, Other Deposits, Included In Broad Money (ODCS)",Domestic currency,Annual,Millions,Deposits & Funding,2017,103223565.3
+IND.ODCORP_L_F2M_XBM_ODCS.XDC.A,India,"Liabilities, Deposits, Excluded From Broad Money (ODCS)",Domestic currency,Annual,Millions,Deposits & Funding,2017,0.0
+IND.ODCORP_A_ACO_S11001_ODCS.XDC.A,India,"Assets, Claims on Public non-financial corporations (ODCS)",Domestic currency,Annual,Millions,Other Sectoral Exposure,2017,22774329.45
+IND.ODCORP_L_F3_XBM_ODCS.XDC.A,India,"Liabilities, Securities other than Shares, Excluded From Broad Money (ODCS)",Domestic currency,Annual,Millions,Deposits & Funding,2017,0.0
+IND.ODCORP_L_LT_S121_ODCS.XDC.A,India,"Liabilities, Liabilities to Central bank (ODCS)",Domestic currency,Annual,Millions,Central Bank & Liquidity,2017,1265238.609
+IND.ODCORP_L_F71_ODCS.XDC.A,India,"Liabilities, Financial Derivatives (ODCS)",Domestic currency,Annual,Millions,Financial Derivatives,2017,0.0
+IND.ODCORP_L_IL_LT_NRES_ODCS.USD.A,India,"Liabilities, International Liquidity, Liabilities to Nonresidents (ODCS)",US dollar,Annual,Millions,Foreign & International Exposure,2017,0.0
+IND.ODCORP_L_F4_ODCS.XDC.A,India,"Liabilities, Loans (ODCS)",Domestic currency,Annual,Millions,Deposits & Funding,2017,3219254.718
+IND.ODCORP_L_LT_S1311MIXED_ODCS.XDC.A,India,"Liabilities, Liabilities to Central Government (ODCS)",Domestic currency,Annual,Millions,Government Exposure,2017,0.0
+IND.ODCORP_L_F3_IBM_ODCS.XDC.A,India,"Liabilities, Securities other than Shares, Included In Broad Money (ODCS)",Domestic currency,Annual,Millions,Deposits & Funding,2017,0.0
+IND.ODCORP_L_F22_IBM_ODCS.XDC.A,India,"Liabilities, Transferable Deposits, Included In Broad Money (ODCS)",Domestic currency,Annual,Millions,Deposits & Funding,2017,12470101.11
+IND.ODCORP_NETAL_OIN_ASEC_ODCS.XDC.A,India,"Net (assets less liabilities), Other items (Net), All sectors (ODCS)",Domestic currency,Annual,Millions,Other Balance Sheet Items,2017,6013349.687
+IND.ODCORP_A_T_ASEC_ODC2SR.XDC.A,India,"Assets, Total, All sectors (ODC2SR)",Domestic currency,Annual,Millions,Banking Sector Size,2017,149758102.1
+IND.ODCORP_A_F2MSOTS_RR_ACO_S121_ODCS.XDC.A,India,"Assets, Deposits and securities other than shares, Required reserves, Claims on Central bank (ODCS)",Domestic currency,Annual,Millions,Central Bank & Liquidity,2018,5155630.0
+IND.ODCORP_A_ACO_PS_ODCS.XDC.A,India,"Assets, Claims on Private sector (ODCS)",Domestic currency,Annual,Millions,Private Sector Exposure,2018,73515033.34
+IND.ODCORP_A_ACO_S1311MIXED_ODCS.XDC.A,India,"Assets, Claims on Central Government (ODCS)",Domestic currency,Annual,Millions,Government Exposure,2018,27680752.55
+IND.ODCORP_A_ACO_S121_ODCS.XDC.A,India,"Assets, Claims on Central bank (ODCS)",Domestic currency,Annual,Millions,Central Bank & Liquidity,2018,6224050.194
+IND.ODCORP_A_ACO_S12R_ODCS.XDC.A,India,"Assets, Claims on Other financial corporations (ODCS)",Domestic currency,Annual,Millions,Other Sectoral Exposure,2018,8932280.165
+IND.ODCORP_A_IL_ACO_NRES_ODCS.USD.A,India,"Assets, International Liquidity, Claims on Nonresidents (ODCS)",US dollar,Annual,Millions,Foreign & International Exposure,2018,21539.78341
+IND.ODCORP_A_ACO_S13M1_ODCS.XDC.A,India,"Assets, Claims on State and Local Governments (ODCS)",Domestic currency,Annual,Millions,Government Exposure,2018,8746481.068
+IND.ODCORP_L_F51KOE_ODCS.XDC.A,India,"Liabilities, Shares and other Equity (ODCS)",Domestic currency,Annual,Millions,Capital & Equity,2018,14048275.06
+IND.ODCORP_A_ACO_S1_Z_ODCS.XDC.A,India,"Assets, Claims on Other sectors (ODCS)",Domestic currency,Annual,Millions,Other Sectoral Exposure,2018,116463807.0
+IND.ODCORP_L_F6_ODCS.XDC.A,India,"Liabilities, Insurance Technical Reserves (ODCS)",Domestic currency,Annual,Millions,Insurance Technical Reserves,2018,0.0
+IND.ODCORP_A_ACO_NRES_ODCS.XDC.A,India,"Assets, Claims on Nonresidents (ODCS)",Domestic currency,Annual,Millions,Foreign & International Exposure,2018,1503311.026
+IND.ODCORP_A_F21_ACO_S121_ODCS.XDC.A,India,"Assets, Currency, Claims on Central bank (ODCS)",Domestic currency,Annual,Millions,Central Bank & Liquidity,2018,789739.4404
+IND.ODCORP_A_OCO_S121_ODCS.XDC.A,India,"Assets, Other claims on Central bank (ODCS)",Domestic currency,Annual,Millions,Central Bank & Liquidity,2018,278680.754
+IND.ODCORP_L_LT_NRES_ODCS.XDC.A,India,"Liabilities, Liabilities to Nonresidents (ODCS)",Domestic currency,Annual,Millions,Foreign & International Exposure,2018,0.0
+IND.ODCORP_NETAL_NCO_S1311MIXED_ODCS.XDC.A,India,"Net (assets less liabilities), Net Claims on Central Government (ODCS)",Domestic currency,Annual,Millions,Government Exposure,2018,27680752.55
+IND.ODCORP_NETAL_NFRA_ODCS.XDC.A,India,"Net (assets less liabilities), Net foreign assets (ODCS)",Domestic currency,Annual,Millions,Foreign & International Exposure,2018,1503311.026
+IND.ODCORP_L_F29_IBM_ODCS.XDC.A,India,"Liabilities, Other Deposits, Included In Broad Money (ODCS)",Domestic currency,Annual,Millions,Deposits & Funding,2018,112710269.2
+IND.ODCORP_L_F2M_XBM_ODCS.XDC.A,India,"Liabilities, Deposits, Excluded From Broad Money (ODCS)",Domestic currency,Annual,Millions,Deposits & Funding,2018,0.0
+IND.ODCORP_A_ACO_S11001_ODCS.XDC.A,India,"Assets, Claims on Public non-financial corporations (ODCS)",Domestic currency,Annual,Millions,Other Sectoral Exposure,2018,25270012.38
+IND.ODCORP_L_F3_XBM_ODCS.XDC.A,India,"Liabilities, Securities other than Shares, Excluded From Broad Money (ODCS)",Domestic currency,Annual,Millions,Deposits & Funding,2018,0.0
+IND.ODCORP_L_LT_S121_ODCS.XDC.A,India,"Liabilities, Liabilities to Central bank (ODCS)",Domestic currency,Annual,Millions,Central Bank & Liquidity,2018,1849985.208
+IND.ODCORP_L_F71_ODCS.XDC.A,India,"Liabilities, Financial Derivatives (ODCS)",Domestic currency,Annual,Millions,Financial Derivatives,2018,0.0
+IND.ODCORP_L_IL_LT_NRES_ODCS.USD.A,India,"Liabilities, International Liquidity, Liabilities to Nonresidents (ODCS)",US dollar,Annual,Millions,Foreign & International Exposure,2018,0.0
+IND.ODCORP_L_F4_ODCS.XDC.A,India,"Liabilities, Loans (ODCS)",Domestic currency,Annual,Millions,Deposits & Funding,2018,3574968.984
+IND.ODCORP_L_LT_S1311MIXED_ODCS.XDC.A,India,"Liabilities, Liabilities to Central Government (ODCS)",Domestic currency,Annual,Millions,Government Exposure,2018,0.0
+IND.ODCORP_L_F3_IBM_ODCS.XDC.A,India,"Liabilities, Securities other than Shares, Included In Broad Money (ODCS)",Domestic currency,Annual,Millions,Deposits & Funding,2018,0.0
+IND.ODCORP_L_F22_IBM_ODCS.XDC.A,India,"Liabilities, Transferable Deposits, Included In Broad Money (ODCS)",Domestic currency,Annual,Millions,Deposits & Funding,2018,13026000.61
+IND.ODCORP_NETAL_OIN_ASEC_ODCS.XDC.A,India,"Net (assets less liabilities), Other items (Net), All sectors (ODCS)",Domestic currency,Annual,Millions,Other Balance Sheet Items,2018,6662421.708
+IND.ODCORP_A_T_ASEC_ODC2SR.XDC.A,India,"Assets, Total, All sectors (ODC2SR)",Domestic currency,Annual,Millions,Banking Sector Size,2018,165984027.5
+IND.ODCORP_A_F2MSOTS_RR_ACO_S121_ODCS.XDC.A,India,"Assets, Deposits and securities other than shares, Required reserves, Claims on Central bank (ODCS)",Domestic currency,Annual,Millions,Central Bank & Liquidity,2019,6037020.0
+IND.ODCORP_A_ACO_PS_ODCS.XDC.A,India,"Assets, Claims on Private sector (ODCS)",Domestic currency,Annual,Millions,Private Sector Exposure,2019,77877187.39
+IND.ODCORP_A_ACO_S1311MIXED_ODCS.XDC.A,India,"Assets, Claims on Central Government (ODCS)",Domestic currency,Annual,Millions,Government Exposure,2019,31115005.32
+IND.ODCORP_A_ACO_S121_ODCS.XDC.A,India,"Assets, Claims on Central bank (ODCS)",Domestic currency,Annual,Millions,Central Bank & Liquidity,2019,9303785.895
+IND.ODCORP_A_ACO_S12R_ODCS.XDC.A,India,"Assets, Claims on Other financial corporations (ODCS)",Domestic currency,Annual,Millions,Other Sectoral Exposure,2019,10864890.42
+IND.ODCORP_A_IL_ACO_NRES_ODCS.USD.A,India,"Assets, International Liquidity, Claims on Nonresidents (ODCS)",US dollar,Annual,Millions,Foreign & International Exposure,2019,29511.96972
+IND.ODCORP_A_ACO_S13M1_ODCS.XDC.A,India,"Assets, Claims on State and Local Governments (ODCS)",Domestic currency,Annual,Millions,Government Exposure,2019,9528132.2
+IND.ODCORP_L_F51KOE_ODCS.XDC.A,India,"Liabilities, Shares and other Equity (ODCS)",Domestic currency,Annual,Millions,Capital & Equity,2019,19571609.61
+IND.ODCORP_A_ACO_S1_Z_ODCS.XDC.A,India,"Assets, Claims on Other sectors (ODCS)",Domestic currency,Annual,Millions,Other Sectoral Exposure,2019,124975650.4
+IND.ODCORP_L_F6_ODCS.XDC.A,India,"Liabilities, Insurance Technical Reserves (ODCS)",Domestic currency,Annual,Millions,Insurance Technical Reserves,2019,0.0
+IND.ODCORP_A_ACO_NRES_ODCS.XDC.A,India,"Assets, Claims on Nonresidents (ODCS)",Domestic currency,Annual,Millions,Foreign & International Exposure,2019,2103436.13
+IND.ODCORP_A_F21_ACO_S121_ODCS.XDC.A,India,"Assets, Currency, Claims on Central bank (ODCS)",Domestic currency,Annual,Millions,Central Bank & Liquidity,2019,914653.4747
+IND.ODCORP_A_OCO_S121_ODCS.XDC.A,India,"Assets, Other claims on Central bank (ODCS)",Domestic currency,Annual,Millions,Central Bank & Liquidity,2019,2352112.42
+IND.ODCORP_L_LT_NRES_ODCS.XDC.A,India,"Liabilities, Liabilities to Nonresidents (ODCS)",Domestic currency,Annual,Millions,Foreign & International Exposure,2019,0.0
+IND.ODCORP_NETAL_NCO_S1311MIXED_ODCS.XDC.A,India,"Net (assets less liabilities), Net Claims on Central Government (ODCS)",Domestic currency,Annual,Millions,Government Exposure,2019,31115005.32
+IND.ODCORP_NETAL_NFRA_ODCS.XDC.A,India,"Net (assets less liabilities), Net foreign assets (ODCS)",Domestic currency,Annual,Millions,Foreign & International Exposure,2019,2103436.13
+IND.ODCORP_L_F29_IBM_ODCS.XDC.A,India,"Liabilities, Other Deposits, Included In Broad Money (ODCS)",Domestic currency,Annual,Millions,Deposits & Funding,2019,123744422.1
+IND.ODCORP_L_F2M_XBM_ODCS.XDC.A,India,"Liabilities, Deposits, Excluded From Broad Money (ODCS)",Domestic currency,Annual,Millions,Deposits & Funding,2019,0.0
+IND.ODCORP_A_ACO_S11001_ODCS.XDC.A,India,"Assets, Claims on Public non-financial corporations (ODCS)",Domestic currency,Annual,Millions,Other Sectoral Exposure,2019,26705440.39
+IND.ODCORP_L_F3_XBM_ODCS.XDC.A,India,"Liabilities, Securities other than Shares, Excluded From Broad Money (ODCS)",Domestic currency,Annual,Millions,Deposits & Funding,2019,0.0
+IND.ODCORP_L_LT_S121_ODCS.XDC.A,India,"Liabilities, Liabilities to Central bank (ODCS)",Domestic currency,Annual,Millions,Central Bank & Liquidity,2019,294613.689
+IND.ODCORP_L_F71_ODCS.XDC.A,India,"Liabilities, Financial Derivatives (ODCS)",Domestic currency,Annual,Millions,Financial Derivatives,2019,0.0
+IND.ODCORP_L_IL_LT_NRES_ODCS.USD.A,India,"Liabilities, International Liquidity, Liabilities to Nonresidents (ODCS)",US dollar,Annual,Millions,Foreign & International Exposure,2019,0.0
+IND.ODCORP_L_F4_ODCS.XDC.A,India,"Liabilities, Loans (ODCS)",Domestic currency,Annual,Millions,Deposits & Funding,2019,3190007.259
+IND.ODCORP_L_LT_S1311MIXED_ODCS.XDC.A,India,"Liabilities, Liabilities to Central Government (ODCS)",Domestic currency,Annual,Millions,Government Exposure,2019,0.0
+IND.ODCORP_L_F3_IBM_ODCS.XDC.A,India,"Liabilities, Securities other than Shares, Included In Broad Money (ODCS)",Domestic currency,Annual,Millions,Deposits & Funding,2019,0.0
+IND.ODCORP_L_F22_IBM_ODCS.XDC.A,India,"Liabilities, Transferable Deposits, Included In Broad Money (ODCS)",Domestic currency,Annual,Millions,Deposits & Funding,2019,14739561.52
+IND.ODCORP_NETAL_OIN_ASEC_ODCS.XDC.A,India,"Net (assets less liabilities), Other items (Net), All sectors (ODCS)",Domestic currency,Annual,Millions,Other Balance Sheet Items,2019,5957663.526
+IND.ODCORP_A_T_ASEC_ODC2SR.XDC.A,India,"Assets, Total, All sectors (ODC2SR)",Domestic currency,Annual,Millions,Banking Sector Size,2019,181071663.1
+IND.ODCORP_A_F2MSOTS_RR_ACO_S121_ODCS.XDC.A,India,"Assets, Deposits and securities other than shares, Required reserves, Claims on Central bank (ODCS)",Domestic currency,Annual,Millions,Central Bank & Liquidity,2020,5221760.0
+IND.ODCORP_A_ACO_PS_ODCS.XDC.A,India,"Assets, Claims on Private sector (ODCS)",Domestic currency,Annual,Millions,Private Sector Exposure,2020,80978474.23
+IND.ODCORP_A_ACO_S1311MIXED_ODCS.XDC.A,India,"Assets, Claims on Central Government (ODCS)",Domestic currency,Annual,Millions,Government Exposure,2020,35628093.66
+IND.ODCORP_A_ACO_S121_ODCS.XDC.A,India,"Assets, Claims on Central bank (ODCS)",Domestic currency,Annual,Millions,Central Bank & Liquidity,2020,11944707.17
+IND.ODCORP_A_ACO_S12R_ODCS.XDC.A,India,"Assets, Claims on Other financial corporations (ODCS)",Domestic currency,Annual,Millions,Other Sectoral Exposure,2020,12231237.96
+IND.ODCORP_A_IL_ACO_NRES_ODCS.USD.A,India,"Assets, International Liquidity, Claims on Nonresidents (ODCS)",US dollar,Annual,Millions,Foreign & International Exposure,2020,45632.6915
+IND.ODCORP_A_ACO_S13M1_ODCS.XDC.A,India,"Assets, Claims on State and Local Governments (ODCS)",Domestic currency,Annual,Millions,Government Exposure,2020,12199334.72
+IND.ODCORP_L_F51KOE_ODCS.XDC.A,India,"Liabilities, Shares and other Equity (ODCS)",Domestic currency,Annual,Millions,Capital & Equity,2020,21490180.89
+IND.ODCORP_A_ACO_S1_Z_ODCS.XDC.A,India,"Assets, Claims on Other sectors (ODCS)",Domestic currency,Annual,Millions,Other Sectoral Exposure,2020,134075914.7
+IND.ODCORP_L_F6_ODCS.XDC.A,India,"Liabilities, Insurance Technical Reserves (ODCS)",Domestic currency,Annual,Millions,Insurance Technical Reserves,2020,0.0
+IND.ODCORP_A_ACO_NRES_ODCS.XDC.A,India,"Assets, Claims on Nonresidents (ODCS)",Domestic currency,Annual,Millions,Foreign & International Exposure,2020,3333632.392
+IND.ODCORP_A_F21_ACO_S121_ODCS.XDC.A,India,"Assets, Currency, Claims on Central bank (ODCS)",Domestic currency,Annual,Millions,Central Bank & Liquidity,2020,949651.7226
+IND.ODCORP_A_OCO_S121_ODCS.XDC.A,India,"Assets, Other claims on Central bank (ODCS)",Domestic currency,Annual,Millions,Central Bank & Liquidity,2020,5773295.448
+IND.ODCORP_L_LT_NRES_ODCS.XDC.A,India,"Liabilities, Liabilities to Nonresidents (ODCS)",Domestic currency,Annual,Millions,Foreign & International Exposure,2020,0.0
+IND.ODCORP_NETAL_NCO_S1311MIXED_ODCS.XDC.A,India,"Net (assets less liabilities), Net Claims on Central Government (ODCS)",Domestic currency,Annual,Millions,Government Exposure,2020,35628093.66
+IND.ODCORP_NETAL_NFRA_ODCS.XDC.A,India,"Net (assets less liabilities), Net foreign assets (ODCS)",Domestic currency,Annual,Millions,Foreign & International Exposure,2020,3333632.392
+IND.ODCORP_L_F29_IBM_ODCS.XDC.A,India,"Liabilities, Other Deposits, Included In Broad Money (ODCS)",Domestic currency,Annual,Millions,Deposits & Funding,2020,136454432.2
+IND.ODCORP_L_F2M_XBM_ODCS.XDC.A,India,"Liabilities, Deposits, Excluded From Broad Money (ODCS)",Domestic currency,Annual,Millions,Deposits & Funding,2020,0.0
+IND.ODCORP_A_ACO_S11001_ODCS.XDC.A,India,"Assets, Claims on Public non-financial corporations (ODCS)",Domestic currency,Annual,Millions,Other Sectoral Exposure,2020,28666867.75
+IND.ODCORP_L_F3_XBM_ODCS.XDC.A,India,"Liabilities, Securities other than Shares, Excluded From Broad Money (ODCS)",Domestic currency,Annual,Millions,Deposits & Funding,2020,0.0
+IND.ODCORP_L_LT_S121_ODCS.XDC.A,India,"Liabilities, Liabilities to Central bank (ODCS)",Domestic currency,Annual,Millions,Central Bank & Liquidity,2020,812700.087
+IND.ODCORP_L_F71_ODCS.XDC.A,India,"Liabilities, Financial Derivatives (ODCS)",Domestic currency,Annual,Millions,Financial Derivatives,2020,0.0
+IND.ODCORP_L_IL_LT_NRES_ODCS.USD.A,India,"Liabilities, International Liquidity, Liabilities to Nonresidents (ODCS)",US dollar,Annual,Millions,Foreign & International Exposure,2020,0.0
+IND.ODCORP_L_F4_ODCS.XDC.A,India,"Liabilities, Loans (ODCS)",Domestic currency,Annual,Millions,Deposits & Funding,2020,2515448.6
+IND.ODCORP_L_LT_S1311MIXED_ODCS.XDC.A,India,"Liabilities, Liabilities to Central Government (ODCS)",Domestic currency,Annual,Millions,Government Exposure,2020,0.0
+IND.ODCORP_L_F3_IBM_ODCS.XDC.A,India,"Liabilities, Securities other than Shares, Included In Broad Money (ODCS)",Domestic currency,Annual,Millions,Deposits & Funding,2020,0.0
+IND.ODCORP_L_F22_IBM_ODCS.XDC.A,India,"Liabilities, Transferable Deposits, Included In Broad Money (ODCS)",Domestic currency,Annual,Millions,Deposits & Funding,2020,16866281.77
+IND.ODCORP_NETAL_OIN_ASEC_ODCS.XDC.A,India,"Net (assets less liabilities), Other items (Net), All sectors (ODCS)",Domestic currency,Annual,Millions,Other Balance Sheet Items,2020,6843304.326
+IND.ODCORP_A_T_ASEC_ODC2SR.XDC.A,India,"Assets, Total, All sectors (ODC2SR)",Domestic currency,Annual,Millions,Banking Sector Size,2020,200917750.4
+IND.ODCORP_A_F2MSOTS_RR_ACO_S121_ODCS.XDC.A,India,"Assets, Deposits and securities other than shares, Required reserves, Claims on Central bank (ODCS)",Domestic currency,Annual,Millions,Central Bank & Liquidity,2021,7648284.6
+IND.ODCORP_A_ACO_PS_ODCS.XDC.A,India,"Assets, Claims on Private sector (ODCS)",Domestic currency,Annual,Millions,Private Sector Exposure,2021,87055731.51
+IND.ODCORP_A_ACO_S1311MIXED_ODCS.XDC.A,India,"Assets, Claims on Central Government (ODCS)",Domestic currency,Annual,Millions,Government Exposure,2021,36172107.22
+IND.ODCORP_A_ACO_S121_ODCS.XDC.A,India,"Assets, Claims on Central bank (ODCS)",Domestic currency,Annual,Millions,Central Bank & Liquidity,2021,16809006.77
+IND.ODCORP_A_ACO_S12R_ODCS.XDC.A,India,"Assets, Claims on Other financial corporations (ODCS)",Domestic currency,Annual,Millions,Other Sectoral Exposure,2021,13938129.59
+IND.ODCORP_A_IL_ACO_NRES_ODCS.USD.A,India,"Assets, International Liquidity, Claims on Nonresidents (ODCS)",US dollar,Annual,Millions,Foreign & International Exposure,2021,40661.33915
+IND.ODCORP_A_ACO_S13M1_ODCS.XDC.A,India,"Assets, Claims on State and Local Governments (ODCS)",Domestic currency,Annual,Millions,Government Exposure,2021,14184242.66
+IND.ODCORP_L_F51KOE_ODCS.XDC.A,India,"Liabilities, Shares and other Equity (ODCS)",Domestic currency,Annual,Millions,Capital & Equity,2021,16670191.16
+IND.ODCORP_A_ACO_S1_Z_ODCS.XDC.A,India,"Assets, Claims on Other sectors (ODCS)",Domestic currency,Annual,Millions,Other Sectoral Exposure,2021,147445648.3
+IND.ODCORP_L_F6_ODCS.XDC.A,India,"Liabilities, Insurance Technical Reserves (ODCS)",Domestic currency,Annual,Millions,Insurance Technical Reserves,2021,0.0
+IND.ODCORP_A_ACO_NRES_ODCS.XDC.A,India,"Assets, Claims on Nonresidents (ODCS)",Domestic currency,Annual,Millions,Foreign & International Exposure,2021,3021239.152
+IND.ODCORP_A_F21_ACO_S121_ODCS.XDC.A,India,"Assets, Currency, Claims on Central bank (ODCS)",Domestic currency,Annual,Millions,Central Bank & Liquidity,2021,1057861.417
+IND.ODCORP_A_OCO_S121_ODCS.XDC.A,India,"Assets, Other claims on Central bank (ODCS)",Domestic currency,Annual,Millions,Central Bank & Liquidity,2021,8102860.75
+IND.ODCORP_L_LT_NRES_ODCS.XDC.A,India,"Liabilities, Liabilities to Nonresidents (ODCS)",Domestic currency,Annual,Millions,Foreign & International Exposure,2021,0.0
+IND.ODCORP_NETAL_NCO_S1311MIXED_ODCS.XDC.A,India,"Net (assets less liabilities), Net Claims on Central Government (ODCS)",Domestic currency,Annual,Millions,Government Exposure,2021,36172107.22
+IND.ODCORP_NETAL_NFRA_ODCS.XDC.A,India,"Net (assets less liabilities), Net foreign assets (ODCS)",Domestic currency,Annual,Millions,Foreign & International Exposure,2021,3021239.152
+IND.ODCORP_L_F29_IBM_ODCS.XDC.A,India,"Liabilities, Other Deposits, Included In Broad Money (ODCS)",Domestic currency,Annual,Millions,Deposits & Funding,2021,149758234.0
+IND.ODCORP_L_F2M_XBM_ODCS.XDC.A,India,"Liabilities, Deposits, Excluded From Broad Money (ODCS)",Domestic currency,Annual,Millions,Deposits & Funding,2021,0.0
+IND.ODCORP_A_ACO_S11001_ODCS.XDC.A,India,"Assets, Claims on Public non-financial corporations (ODCS)",Domestic currency,Annual,Millions,Other Sectoral Exposure,2021,32267544.5
+IND.ODCORP_L_F3_XBM_ODCS.XDC.A,India,"Liabilities, Securities other than Shares, Excluded From Broad Money (ODCS)",Domestic currency,Annual,Millions,Deposits & Funding,2021,0.0
+IND.ODCORP_L_LT_S121_ODCS.XDC.A,India,"Liabilities, Liabilities to Central bank (ODCS)",Domestic currency,Annual,Millions,Central Bank & Liquidity,2021,1074755.146
+IND.ODCORP_L_F71_ODCS.XDC.A,India,"Liabilities, Financial Derivatives (ODCS)",Domestic currency,Annual,Millions,Financial Derivatives,2021,0.0
+IND.ODCORP_L_IL_LT_NRES_ODCS.USD.A,India,"Liabilities, International Liquidity, Liabilities to Nonresidents (ODCS)",US dollar,Annual,Millions,Foreign & International Exposure,2021,0.0
+IND.ODCORP_L_F4_ODCS.XDC.A,India,"Liabilities, Loans (ODCS)",Domestic currency,Annual,Millions,Deposits & Funding,2021,2699760.5
+IND.ODCORP_L_LT_S1311MIXED_ODCS.XDC.A,India,"Liabilities, Liabilities to Central Government (ODCS)",Domestic currency,Annual,Millions,Government Exposure,2021,0.0
+IND.ODCORP_L_F3_IBM_ODCS.XDC.A,India,"Liabilities, Securities other than Shares, Included In Broad Money (ODCS)",Domestic currency,Annual,Millions,Deposits & Funding,2021,0.0
+IND.ODCORP_L_F22_IBM_ODCS.XDC.A,India,"Liabilities, Transferable Deposits, Included In Broad Money (ODCS)",Domestic currency,Annual,Millions,Deposits & Funding,2021,22060524.13
+IND.ODCORP_NETAL_OIN_ASEC_ODCS.XDC.A,India,"Net (assets less liabilities), Other items (Net), All sectors (ODCS)",Domestic currency,Annual,Millions,Other Balance Sheet Items,2021,11184536.51
+IND.ODCORP_A_T_ASEC_ODC2SR.XDC.A,India,"Assets, Total, All sectors (ODC2SR)",Domestic currency,Annual,Millions,Banking Sector Size,2021,218968550.4
+IND.ODCORP_A_F2MSOTS_RR_ACO_S121_ODCS.XDC.A,India,"Assets, Deposits and securities other than shares, Required reserves, Claims on Central bank (ODCS)",Domestic currency,Annual,Millions,Central Bank & Liquidity,2022,8997771.0
+IND.ODCORP_A_ACO_PS_ODCS.XDC.A,India,"Assets, Claims on Private sector (ODCS)",Domestic currency,Annual,Millions,Private Sector Exposure,2022,99732708.52
+IND.ODCORP_A_ACO_S1311MIXED_ODCS.XDC.A,India,"Assets, Claims on Central Government (ODCS)",Domestic currency,Annual,Millions,Government Exposure,2022,40748486.31
+IND.ODCORP_A_ACO_S121_ODCS.XDC.A,India,"Assets, Claims on Central bank (ODCS)",Domestic currency,Annual,Millions,Central Bank & Liquidity,2022,11603222.68
+IND.ODCORP_A_ACO_S12R_ODCS.XDC.A,India,"Assets, Claims on Other financial corporations (ODCS)",Domestic currency,Annual,Millions,Other Sectoral Exposure,2022,19764161.46
+IND.ODCORP_A_IL_ACO_NRES_ODCS.USD.A,India,"Assets, International Liquidity, Claims on Nonresidents (ODCS)",US dollar,Annual,Millions,Foreign & International Exposure,2022,31442.93429
+IND.ODCORP_A_ACO_S13M1_ODCS.XDC.A,India,"Assets, Claims on State and Local Governments (ODCS)",Domestic currency,Annual,Millions,Government Exposure,2022,14291366.48
+IND.ODCORP_L_F51KOE_ODCS.XDC.A,India,"Liabilities, Shares and other Equity (ODCS)",Domestic currency,Annual,Millions,Capital & Equity,2022,16648835.35
+IND.ODCORP_A_ACO_S1_Z_ODCS.XDC.A,India,"Assets, Claims on Other sectors (ODCS)",Domestic currency,Annual,Millions,Other Sectoral Exposure,2022,167091634.9
+IND.ODCORP_L_F6_ODCS.XDC.A,India,"Liabilities, Insurance Technical Reserves (ODCS)",Domestic currency,Annual,Millions,Insurance Technical Reserves,2022,0.0
+IND.ODCORP_A_ACO_NRES_ODCS.XDC.A,India,"Assets, Claims on Nonresidents (ODCS)",Domestic currency,Annual,Millions,Foreign & International Exposure,2022,2603041.047
+IND.ODCORP_A_F21_ACO_S121_ODCS.XDC.A,India,"Assets, Currency, Claims on Central bank (ODCS)",Domestic currency,Annual,Millions,Central Bank & Liquidity,2022,1104160.975
+IND.ODCORP_A_OCO_S121_ODCS.XDC.A,India,"Assets, Other claims on Central bank (ODCS)",Domestic currency,Annual,Millions,Central Bank & Liquidity,2022,1501290.704
+IND.ODCORP_L_LT_NRES_ODCS.XDC.A,India,"Liabilities, Liabilities to Nonresidents (ODCS)",Domestic currency,Annual,Millions,Foreign & International Exposure,2022,0.0
+IND.ODCORP_NETAL_NCO_S1311MIXED_ODCS.XDC.A,India,"Net (assets less liabilities), Net Claims on Central Government (ODCS)",Domestic currency,Annual,Millions,Government Exposure,2022,40748486.31
+IND.ODCORP_NETAL_NFRA_ODCS.XDC.A,India,"Net (assets less liabilities), Net foreign assets (ODCS)",Domestic currency,Annual,Millions,Foreign & International Exposure,2022,2603041.047
+IND.ODCORP_L_F29_IBM_ODCS.XDC.A,India,"Liabilities, Other Deposits, Included In Broad Money (ODCS)",Domestic currency,Annual,Millions,Deposits & Funding,2022,163321308.7
+IND.ODCORP_L_F2M_XBM_ODCS.XDC.A,India,"Liabilities, Deposits, Excluded From Broad Money (ODCS)",Domestic currency,Annual,Millions,Deposits & Funding,2022,0.0
+IND.ODCORP_A_ACO_S11001_ODCS.XDC.A,India,"Assets, Claims on Public non-financial corporations (ODCS)",Domestic currency,Annual,Millions,Other Sectoral Exposure,2022,33303398.46
+IND.ODCORP_L_F3_XBM_ODCS.XDC.A,India,"Liabilities, Securities other than Shares, Excluded From Broad Money (ODCS)",Domestic currency,Annual,Millions,Deposits & Funding,2022,0.0
+IND.ODCORP_L_LT_S121_ODCS.XDC.A,India,"Liabilities, Liabilities to Central bank (ODCS)",Domestic currency,Annual,Millions,Central Bank & Liquidity,2022,1329375.931
+IND.ODCORP_L_F71_ODCS.XDC.A,India,"Liabilities, Financial Derivatives (ODCS)",Domestic currency,Annual,Millions,Financial Derivatives,2022,0.0
+IND.ODCORP_L_IL_LT_NRES_ODCS.USD.A,India,"Liabilities, International Liquidity, Liabilities to Nonresidents (ODCS)",US dollar,Annual,Millions,Foreign & International Exposure,2022,0.0
+IND.ODCORP_L_F4_ODCS.XDC.A,India,"Liabilities, Loans (ODCS)",Domestic currency,Annual,Millions,Deposits & Funding,2022,4407437.3
+IND.ODCORP_L_LT_S1311MIXED_ODCS.XDC.A,India,"Liabilities, Liabilities to Central Government (ODCS)",Domestic currency,Annual,Millions,Government Exposure,2022,0.0
+IND.ODCORP_L_F3_IBM_ODCS.XDC.A,India,"Liabilities, Securities other than Shares, Included In Broad Money (ODCS)",Domestic currency,Annual,Millions,Deposits & Funding,2022,0.0
+IND.ODCORP_L_F22_IBM_ODCS.XDC.A,India,"Liabilities, Transferable Deposits, Included In Broad Money (ODCS)",Domestic currency,Annual,Millions,Deposits & Funding,2022,23419356.69
+IND.ODCORP_NETAL_OIN_ASEC_ODCS.XDC.A,India,"Net (assets less liabilities), Other items (Net), All sectors (ODCS)",Domestic currency,Annual,Millions,Other Balance Sheet Items,2022,12920071.0
+IND.ODCORP_A_T_ASEC_ODC2SR.XDC.A,India,"Assets, Total, All sectors (ODC2SR)",Domestic currency,Annual,Millions,Banking Sector Size,2022,241167574.1
+IND.ODCORP_A_F2MSOTS_RR_ACO_S121_ODCS.XDC.A,India,"Assets, Deposits and securities other than shares, Required reserves, Claims on Central bank (ODCS)",Domestic currency,Annual,Millions,Central Bank & Liquidity,2023,10012806.9
+IND.ODCORP_A_ACO_PS_ODCS.XDC.A,India,"Assets, Claims on Private sector (ODCS)",Domestic currency,Annual,Millions,Private Sector Exposure,2023,118527018.7
+IND.ODCORP_A_ACO_S1311MIXED_ODCS.XDC.A,India,"Assets, Claims on Central Government (ODCS)",Domestic currency,Annual,Millions,Government Exposure,2023,47197868.86
+IND.ODCORP_A_ACO_S121_ODCS.XDC.A,India,"Assets, Claims on Central bank (ODCS)",Domestic currency,Annual,Millions,Central Bank & Liquidity,2023,11991003.63
+IND.ODCORP_A_ACO_S12R_ODCS.XDC.A,India,"Assets, Claims on Other financial corporations (ODCS)",Domestic currency,Annual,Millions,Other Sectoral Exposure,2023,18907322.16
+IND.ODCORP_A_IL_ACO_NRES_ODCS.USD.A,India,"Assets, International Liquidity, Claims on Nonresidents (ODCS)",US dollar,Annual,Millions,Foreign & International Exposure,2023,36323.75256
+IND.ODCORP_A_ACO_S13M1_ODCS.XDC.A,India,"Assets, Claims on State and Local Governments (ODCS)",Domestic currency,Annual,Millions,Government Exposure,2023,16819384.16
+IND.ODCORP_L_F51KOE_ODCS.XDC.A,India,"Liabilities, Shares and other Equity (ODCS)",Domestic currency,Annual,Millions,Capital & Equity,2023,46201456.02
+IND.ODCORP_A_ACO_S1_Z_ODCS.XDC.A,India,"Assets, Claims on Other sectors (ODCS)",Domestic currency,Annual,Millions,Other Sectoral Exposure,2023,192942796.1
+IND.ODCORP_L_F6_ODCS.XDC.A,India,"Liabilities, Insurance Technical Reserves (ODCS)",Domestic currency,Annual,Millions,Insurance Technical Reserves,2023,0.0
+IND.ODCORP_A_ACO_NRES_ODCS.XDC.A,India,"Assets, Claims on Nonresidents (ODCS)",Domestic currency,Annual,Millions,Foreign & International Exposure,2023,3019099.547
+IND.ODCORP_A_F21_ACO_S121_ODCS.XDC.A,India,"Assets, Currency, Claims on Central bank (ODCS)",Domestic currency,Annual,Millions,Central Bank & Liquidity,2023,1068806.025
+IND.ODCORP_A_OCO_S121_ODCS.XDC.A,India,"Assets, Other claims on Central bank (ODCS)",Domestic currency,Annual,Millions,Central Bank & Liquidity,2023,909390.704
+IND.ODCORP_L_LT_NRES_ODCS.XDC.A,India,"Liabilities, Liabilities to Nonresidents (ODCS)",Domestic currency,Annual,Millions,Foreign & International Exposure,2023,0.0
+IND.ODCORP_NETAL_NCO_S1311MIXED_ODCS.XDC.A,India,"Net (assets less liabilities), Net Claims on Central Government (ODCS)",Domestic currency,Annual,Millions,Government Exposure,2023,47197868.86
+IND.ODCORP_NETAL_NFRA_ODCS.XDC.A,India,"Net (assets less liabilities), Net foreign assets (ODCS)",Domestic currency,Annual,Millions,Foreign & International Exposure,2023,3019099.547
+IND.ODCORP_L_F29_IBM_ODCS.XDC.A,India,"Liabilities, Other Deposits, Included In Broad Money (ODCS)",Domestic currency,Annual,Millions,Deposits & Funding,2023,184596221.6
+IND.ODCORP_L_F2M_XBM_ODCS.XDC.A,India,"Liabilities, Deposits, Excluded From Broad Money (ODCS)",Domestic currency,Annual,Millions,Deposits & Funding,2023,0.0
+IND.ODCORP_A_ACO_S11001_ODCS.XDC.A,India,"Assets, Claims on Public non-financial corporations (ODCS)",Domestic currency,Annual,Millions,Other Sectoral Exposure,2023,38689071.12
+IND.ODCORP_L_F3_XBM_ODCS.XDC.A,India,"Liabilities, Securities other than Shares, Excluded From Broad Money (ODCS)",Domestic currency,Annual,Millions,Deposits & Funding,2023,0.0
+IND.ODCORP_L_LT_S121_ODCS.XDC.A,India,"Liabilities, Liabilities to Central bank (ODCS)",Domestic currency,Annual,Millions,Central Bank & Liquidity,2023,2761907.714
+IND.ODCORP_L_F71_ODCS.XDC.A,India,"Liabilities, Financial Derivatives (ODCS)",Domestic currency,Annual,Millions,Financial Derivatives,2023,0.0
+IND.ODCORP_L_IL_LT_NRES_ODCS.USD.A,India,"Liabilities, International Liquidity, Liabilities to Nonresidents (ODCS)",US dollar,Annual,Millions,Foreign & International Exposure,2023,0.0
+IND.ODCORP_L_F4_ODCS.XDC.A,India,"Liabilities, Loans (ODCS)",Domestic currency,Annual,Millions,Deposits & Funding,2023,7635839.7
+IND.ODCORP_L_LT_S1311MIXED_ODCS.XDC.A,India,"Liabilities, Liabilities to Central Government (ODCS)",Domestic currency,Annual,Millions,Government Exposure,2023,0.0
+IND.ODCORP_L_F3_IBM_ODCS.XDC.A,India,"Liabilities, Securities other than Shares, Included In Broad Money (ODCS)",Domestic currency,Annual,Millions,Deposits & Funding,2023,0.0
+IND.ODCORP_L_F22_IBM_ODCS.XDC.A,India,"Liabilities, Transferable Deposits, Included In Broad Money (ODCS)",Domestic currency,Annual,Millions,Deposits & Funding,2023,25804895.18
+IND.ODCORP_NETAL_OIN_ASEC_ODCS.XDC.A,India,"Net (assets less liabilities), Other items (Net), All sectors (ODCS)",Domestic currency,Annual,Millions,Other Balance Sheet Items,2023,-11849552.08
+IND.ODCORP_A_T_ASEC_ODC2SR.XDC.A,India,"Assets, Total, All sectors (ODC2SR)",Domestic currency,Annual,Millions,Banking Sector Size,2023,284156322.3
+IND.ODCORP_A_F2MSOTS_RR_ACO_S121_ODCS.XDC.A,India,"Assets, Deposits and securities other than shares, Required reserves, Claims on Central bank (ODCS)",Domestic currency,Annual,Millions,Central Bank & Liquidity,2024,10002595.3
+IND.ODCORP_A_ACO_PS_ODCS.XDC.A,India,"Assets, Claims on Private sector (ODCS)",Domestic currency,Annual,Millions,Private Sector Exposure,2024,132343752.3
+IND.ODCORP_A_ACO_S1311MIXED_ODCS.XDC.A,India,"Assets, Claims on Central Government (ODCS)",Domestic currency,Annual,Millions,Government Exposure,2024,51647494.12
+IND.ODCORP_A_ACO_S121_ODCS.XDC.A,India,"Assets, Claims on Central bank (ODCS)",Domestic currency,Annual,Millions,Central Bank & Liquidity,2024,11656594.32
+IND.ODCORP_A_ACO_S12R_ODCS.XDC.A,India,"Assets, Claims on Other financial corporations (ODCS)",Domestic currency,Annual,Millions,Other Sectoral Exposure,2024,19747613.79
+IND.ODCORP_A_IL_ACO_NRES_ODCS.USD.A,India,"Assets, International Liquidity, Claims on Nonresidents (ODCS)",US dollar,Annual,Millions,Foreign & International Exposure,2024,55967.3038
+IND.ODCORP_A_ACO_S13M1_ODCS.XDC.A,India,"Assets, Claims on State and Local Governments (ODCS)",Domestic currency,Annual,Millions,Government Exposure,2024,18442451.27
+IND.ODCORP_L_F51KOE_ODCS.XDC.A,India,"Liabilities, Shares and other Equity (ODCS)",Domestic currency,Annual,Millions,Capital & Equity,2024,67204736.2
+IND.ODCORP_A_ACO_S1_Z_ODCS.XDC.A,India,"Assets, Claims on Other sectors (ODCS)",Domestic currency,Annual,Millions,Other Sectoral Exposure,2024,213672715.9
+IND.ODCORP_L_F6_ODCS.XDC.A,India,"Liabilities, Insurance Technical Reserves (ODCS)",Domestic currency,Annual,Millions,Insurance Technical Reserves,2024,0.0
+IND.ODCORP_A_ACO_NRES_ODCS.XDC.A,India,"Assets, Claims on Nonresidents (ODCS)",Domestic currency,Annual,Millions,Foreign & International Exposure,2024,4792099.647
+IND.ODCORP_A_F21_ACO_S121_ODCS.XDC.A,India,"Assets, Currency, Claims on Central bank (ODCS)",Domestic currency,Annual,Millions,Central Bank & Liquidity,2024,1012248.319
+IND.ODCORP_A_OCO_S121_ODCS.XDC.A,India,"Assets, Other claims on Central bank (ODCS)",Domestic currency,Annual,Millions,Central Bank & Liquidity,2024,641750.704
+IND.ODCORP_L_LT_NRES_ODCS.XDC.A,India,"Liabilities, Liabilities to Nonresidents (ODCS)",Domestic currency,Annual,Millions,Foreign & International Exposure,2024,0.0
+IND.ODCORP_NETAL_NCO_S1311MIXED_ODCS.XDC.A,India,"Net (assets less liabilities), Net Claims on Central Government (ODCS)",Domestic currency,Annual,Millions,Government Exposure,2024,51647494.12
+IND.ODCORP_NETAL_NFRA_ODCS.XDC.A,India,"Net (assets less liabilities), Net foreign assets (ODCS)",Domestic currency,Annual,Millions,Foreign & International Exposure,2024,4792099.647
+IND.ODCORP_L_F29_IBM_ODCS.XDC.A,India,"Liabilities, Other Deposits, Included In Broad Money (ODCS)",Domestic currency,Annual,Millions,Deposits & Funding,2024,203071455.4
+IND.ODCORP_L_F2M_XBM_ODCS.XDC.A,India,"Liabilities, Deposits, Excluded From Broad Money (ODCS)",Domestic currency,Annual,Millions,Deposits & Funding,2024,0.0
+IND.ODCORP_A_ACO_S11001_ODCS.XDC.A,India,"Assets, Claims on Public non-financial corporations (ODCS)",Domestic currency,Annual,Millions,Other Sectoral Exposure,2024,43138898.56
+IND.ODCORP_L_F3_XBM_ODCS.XDC.A,India,"Liabilities, Securities other than Shares, Excluded From Broad Money (ODCS)",Domestic currency,Annual,Millions,Deposits & Funding,2024,0.0
+IND.ODCORP_L_LT_S121_ODCS.XDC.A,India,"Liabilities, Liabilities to Central bank (ODCS)",Domestic currency,Annual,Millions,Central Bank & Liquidity,2024,2447070.0
+IND.ODCORP_L_F71_ODCS.XDC.A,India,"Liabilities, Financial Derivatives (ODCS)",Domestic currency,Annual,Millions,Financial Derivatives,2024,0.0
+IND.ODCORP_L_IL_LT_NRES_ODCS.USD.A,India,"Liabilities, International Liquidity, Liabilities to Nonresidents (ODCS)",US dollar,Annual,Millions,Foreign & International Exposure,2024,0.0
+IND.ODCORP_L_F4_ODCS.XDC.A,India,"Liabilities, Loans (ODCS)",Domestic currency,Annual,Millions,Deposits & Funding,2024,9597746.736
+IND.ODCORP_L_LT_S1311MIXED_ODCS.XDC.A,India,"Liabilities, Liabilities to Central Government (ODCS)",Domestic currency,Annual,Millions,Government Exposure,2024,0.0
+IND.ODCORP_L_F3_IBM_ODCS.XDC.A,India,"Liabilities, Securities other than Shares, Included In Broad Money (ODCS)",Domestic currency,Annual,Millions,Deposits & Funding,2024,0.0
+IND.ODCORP_L_F22_IBM_ODCS.XDC.A,India,"Liabilities, Transferable Deposits, Included In Broad Money (ODCS)",Domestic currency,Annual,Millions,Deposits & Funding,2024,27107128.2
+IND.ODCORP_NETAL_OIN_ASEC_ODCS.XDC.A,India,"Net (assets less liabilities), Other items (Net), All sectors (ODCS)",Domestic currency,Annual,Millions,Other Balance Sheet Items,2024,-27659232.53
+IND.ODCORP_A_T_ASEC_ODC2SR.XDC.A,India,"Assets, Total, All sectors (ODC2SR)",Domestic currency,Annual,Millions,Banking Sector Size,2024,326455130.2
+IND.ODCORP_A_F2MSOTS_RR_ACO_S121_ODCS.XDC.A,India,"Assets, Deposits and securities other than shares, Required reserves, Claims on Central bank (ODCS)",Domestic currency,Annual,Millions,Central Bank & Liquidity,2025,7606143.6
+IND.ODCORP_A_ACO_PS_ODCS.XDC.A,India,"Assets, Claims on Private sector (ODCS)",Domestic currency,Annual,Millions,Private Sector Exposure,2025,152094169.9
+IND.ODCORP_A_ACO_S1311MIXED_ODCS.XDC.A,India,"Assets, Claims on Central Government (ODCS)",Domestic currency,Annual,Millions,Government Exposure,2025,53881553.04
+IND.ODCORP_A_ACO_S121_ODCS.XDC.A,India,"Assets, Claims on Central bank (ODCS)",Domestic currency,Annual,Millions,Central Bank & Liquidity,2025,10625894.3
+IND.ODCORP_A_ACO_S12R_ODCS.XDC.A,India,"Assets, Claims on Other financial corporations (ODCS)",Domestic currency,Annual,Millions,Other Sectoral Exposure,2025,22332437.22
+IND.ODCORP_A_IL_ACO_NRES_ODCS.USD.A,India,"Assets, International Liquidity, Claims on Nonresidents (ODCS)",US dollar,Annual,Millions,Foreign & International Exposure,2025,78157.4208
+IND.ODCORP_A_ACO_S13M1_ODCS.XDC.A,India,"Assets, Claims on State and Local Governments (ODCS)",Domestic currency,Annual,Millions,Government Exposure,2025,19257357.55
+IND.ODCORP_L_F51KOE_ODCS.XDC.A,India,"Liabilities, Shares and other Equity (ODCS)",Domestic currency,Annual,Millions,Capital & Equity,2025,77265542.52
+IND.ODCORP_A_ACO_S1_Z_ODCS.XDC.A,India,"Assets, Claims on Other sectors (ODCS)",Domestic currency,Annual,Millions,Other Sectoral Exposure,2025,243230936.7
+IND.ODCORP_L_F6_ODCS.XDC.A,India,"Liabilities, Insurance Technical Reserves (ODCS)",Domestic currency,Annual,Millions,Insurance Technical Reserves,2025,0.0
+IND.ODCORP_A_ACO_NRES_ODCS.XDC.A,India,"Assets, Claims on Nonresidents (ODCS)",Domestic currency,Annual,Millions,Foreign & International Exposure,2025,7027899.647
+IND.ODCORP_A_F21_ACO_S121_ODCS.XDC.A,India,"Assets, Currency, Claims on Central bank (ODCS)",Domestic currency,Annual,Millions,Central Bank & Liquidity,2025,951619.9946
+IND.ODCORP_A_OCO_S121_ODCS.XDC.A,India,"Assets, Other claims on Central bank (ODCS)",Domestic currency,Annual,Millions,Central Bank & Liquidity,2025,2068130.704
+IND.ODCORP_L_LT_NRES_ODCS.XDC.A,India,"Liabilities, Liabilities to Nonresidents (ODCS)",Domestic currency,Annual,Millions,Foreign & International Exposure,2025,0.0
+IND.ODCORP_NETAL_NCO_S1311MIXED_ODCS.XDC.A,India,"Net (assets less liabilities), Net Claims on Central Government (ODCS)",Domestic currency,Annual,Millions,Government Exposure,2025,53881553.04
+IND.ODCORP_NETAL_NFRA_ODCS.XDC.A,India,"Net (assets less liabilities), Net foreign assets (ODCS)",Domestic currency,Annual,Millions,Foreign & International Exposure,2025,7027899.647
+IND.ODCORP_L_F29_IBM_ODCS.XDC.A,India,"Liabilities, Other Deposits, Included In Broad Money (ODCS)",Domestic currency,Annual,Millions,Deposits & Funding,2025,224325272.7
+IND.ODCORP_L_F2M_XBM_ODCS.XDC.A,India,"Liabilities, Deposits, Excluded From Broad Money (ODCS)",Domestic currency,Annual,Millions,Deposits & Funding,2025,0.0
+IND.ODCORP_A_ACO_S11001_ODCS.XDC.A,India,"Assets, Claims on Public non-financial corporations (ODCS)",Domestic currency,Annual,Millions,Other Sectoral Exposure,2025,49546972.09
+IND.ODCORP_L_F3_XBM_ODCS.XDC.A,India,"Liabilities, Securities other than Shares, Excluded From Broad Money (ODCS)",Domestic currency,Annual,Millions,Deposits & Funding,2025,0.0
+IND.ODCORP_L_LT_S121_ODCS.XDC.A,India,"Liabilities, Liabilities to Central bank (ODCS)",Domestic currency,Annual,Millions,Central Bank & Liquidity,2025,1691840.0
+IND.ODCORP_L_F71_ODCS.XDC.A,India,"Liabilities, Financial Derivatives (ODCS)",Domestic currency,Annual,Millions,Financial Derivatives,2025,0.0
+IND.ODCORP_L_IL_LT_NRES_ODCS.USD.A,India,"Liabilities, International Liquidity, Liabilities to Nonresidents (ODCS)",US dollar,Annual,Millions,Foreign & International Exposure,2025,0.0
+IND.ODCORP_L_F4_ODCS.XDC.A,India,"Liabilities, Loans (ODCS)",Domestic currency,Annual,Millions,Deposits & Funding,2025,8307841.112
+IND.ODCORP_L_LT_S1311MIXED_ODCS.XDC.A,India,"Liabilities, Liabilities to Central Government (ODCS)",Domestic currency,Annual,Millions,Government Exposure,2025,0.0
+IND.ODCORP_L_F3_IBM_ODCS.XDC.A,India,"Liabilities, Securities other than Shares, Included In Broad Money (ODCS)",Domestic currency,Annual,Millions,Deposits & Funding,2025,0.0
+IND.ODCORP_L_F22_IBM_ODCS.XDC.A,India,"Liabilities, Transferable Deposits, Included In Broad Money (ODCS)",Domestic currency,Annual,Millions,Deposits & Funding,2025,34226575.56
+IND.ODCORP_NETAL_OIN_ASEC_ODCS.XDC.A,India,"Net (assets less liabilities), Other items (Net), All sectors (ODCS)",Domestic currency,Annual,Millions,Other Balance Sheet Items,2025,-33096258.2
+IND.ODCORP_A_T_ASEC_ODC2SR.XDC.A,India,"Assets, Total, All sectors (ODC2SR)",Domestic currency,Annual,Millions,Banking Sector Size,2025,363903842.6
